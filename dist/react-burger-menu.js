@@ -133,7 +133,7 @@ var CrossIcon = (0, _radium2['default'])(_react2['default'].createClass({
             return {
                 position: 'absolute',
                 width: 3,
-                height: 14,
+                height: 30,
                 transform: type === 'before' ? 'rotate(45deg)' : 'rotate(-45deg)'
             };
         },
