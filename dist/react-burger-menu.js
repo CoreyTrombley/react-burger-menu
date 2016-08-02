@@ -146,7 +146,7 @@ var CrossIcon = (0, _radium2['default'])(_react2['default'].createClass({
                     position: 'absolute',
                     width: 24,
                     height: 24,
-                    right: 8,
+                    right: 14,
                     top: 8
                 };
             var buttonStyle = {
